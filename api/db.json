@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "My first stream",
+      "description": "This stream's gonna be awesome!",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "This is some another stream",
+      "id": 2
+    },
+    {
+      "title": "Heya this is my stream on 13May 2020 !",
+      "description": "Let's talk about something fun and interesting !",
+      "userId": "111910856625639379754",
+      "id": 6
+    },
+    {
+      "title": "Code Reuse",
+      "description": "we will learn about components in ReactJS",
+      "userId": "111910856625639379754",
+      "id": 7
+    }
+  ]
+}
